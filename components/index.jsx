@@ -1,0 +1,6 @@
+export * from './About'
+export * from './Featured'
+export * from './Footer'
+export * from './Gallery'
+export * from './Header'
+export * from './Navbar'
